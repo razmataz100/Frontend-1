@@ -1,0 +1,23 @@
+
+.menubar{
+    display: flex;
+    border: 2px solid black;
+}
+
+.logos{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+
+}
+
+.linkedinlogo{
+    color: #0077B5;
+}
+
+.searchlogo{
+    color: gray;
+}
+
